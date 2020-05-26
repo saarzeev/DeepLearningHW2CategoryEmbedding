@@ -1,6 +1,6 @@
 # Practical Deep Learning Workshop HW2 - Category Embedding
 
-This assignment was given as part of a Practical Deep Learning Workshop course, given during the spring semester of 2020 in Ben Gurion university, as part of the 4th year of Software and Information Systmes Engineering degree.
+This assignment was given as part of a Practical Deep Learning Workshop course, given during the spring semester of 2020 in Ben Gurion University, as part of the 4th year of Software and Information Systmes Engineering degree.
 
 In this repository you can find the given task (I've implemented Question 3), and the notebook I've written.
 
