@@ -7,5 +7,5 @@ In this repository you can find the given task (I've implemented Question 3), an
 The task deals with category embedding, and demands different techniques such as embedding layers, feature extraction etc.
 
 Future work:
-  * Employ and LSTM layer, which will take an advantage of the timeseries characteristic of the data.
+  * Employ an LSTM layer, which will take advantage of the timeseries characteristic of the data.
   
